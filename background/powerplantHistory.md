@@ -4,4 +4,6 @@ Powerplant summit 2019 Introduction to Git
 
 nano is a text editor    nano filename.md creates a markdown file in your directory 
 
-after grating your git file you can commit it to Git with git add filename
+after grating your git file you can add  it to Git with git add filename and then commit with git commit 
+
+
